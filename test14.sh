@@ -17,6 +17,7 @@ awk 'pattern {action}' filename
 
 #awk详细语法
 awk [-F re] [parameter...] ['prong'] [-f progfile] [in_file...]
+NF是当前记录的字段数，$NF就是当前记录的最后一个字段
 
 #awk脚本编写
 awk的内置变量

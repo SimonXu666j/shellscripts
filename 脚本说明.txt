@@ -1,0 +1,16 @@
+test1.sh：shell中变量相关
+test2.sh：shell中位置参数相关
+test3.sh：shell中脚本调试相关
+test4.sh：shell中输入相关
+test5.sh：shell中计算相关
+test6.sh：shell中命令替换$(...)相关
+test7.sh：shell中逻辑判断相关
+test8.sh：shell中测试运算相关
+test9.sh：shell中测试运算相关
+test10.sh：shell中递归输出指定目录下所有文件名
+test11.sh：shell流程控制相关
+test12.sh：shell管道符循环脚本
+test13.sh：shell中sed编程
+test14.sh：shell中awk编程
+test15.sh：shell脚本分类
+test16.sh：shell中数字计算相关
